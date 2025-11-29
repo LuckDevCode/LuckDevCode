@@ -1,77 +1,98 @@
-# 👋 Oi, eu sou a Lucy!
+👋 Hi, I'm Lucy!
 
-Sou **Analista de Produto Pleno na Ford Motor Company**, atuando na área de **Functional Safety Assessment (ISO 26262)**. Trabalho com **automação, desenvolvimento de ferramentas internas, análise de dados e soluções baseadas em LLMs** para melhorar processos e reduzir esforço manual na engenharia automotiva.
+I am a Mid-level Product Analyst at Ford Motor Company, working in Functional Safety Assessment (ISO 26262). I develop automation solutions, internal tools, data analysis workflows, and LLM-based applications to streamline processes and reduce manual effort in automotive engineering.
 
-Atualmente sou estudante de **Engenharia da Computação na UFBA**, com formação técnica em Sistemas de Desenvolvimento pelo SENAI. Busco integrar **software, dados e automação** para criar soluções eficientes e escaláveis.
+I am currently pursuing a B.Sc. in Computer Engineering at UFBA, with a technical background in Systems Development from SENAI. My focus is on integrating software, data, and automation to build efficient and scalable solutions.
 
----
+🚀 What I Do Today
+🔹 Ford – Functional Safety Assessment (2023–Present)
 
-## 🚀 O que faço hoje
+Perform audits, Confirmation Reviews, and assessments according to ISO 26262.
 
-### 🔹 **Ford – Functional Safety Assessment (2023–Atual)**
-- Executo **auditorias, Confirmation Reviews e assessments** de acordo com **ISO 26262**.
-- Desenvolvi e liderei o rollout da **FuSa Audit Tool**, uma plataforma interna que:
-  - Automatiza **downloads em lote** via *Teamcenter API* e *Jira API*;
-  - Audita documentos e verifica conformidades normativas via Python;
-  - Gera relatórios automáticos com *Pandas*, *openpyxl* e *regex*.
-- Experiência em **gestão técnica**, validação de processos e suporte a equipes globais.
+Developed and led the rollout of the FuSa Audit Tool, an internal platform that:
 
----
+Automates batch downloads through the Teamcenter API and Jira API;
 
-## 🛠️ Tecnologias & Ferramentas
+Audits documents and checks compliance requirements using Python;
 
-### 💻 **Linguagens & Dev**
-- Python (Pandas, APIs REST, Flask, Selenium)
-- Java
-- JavaScript, HTML, CSS
-- Git e GitHub
+Generates automated reports using Pandas, openpyxl, and regex.
 
-### 📊 **Dados & Automação**
-- Data analysis (Pandas, Excel, Power BI)
-- Scripts de automação
-- Machine Learning básico (numpy, matplotlib, scikit-learn)
+Experience in technical leadership, process validation, and supporting global engineering teams.
 
-### 🧩 **Outros**
-- ISO 26262 — Auditorias e CRs
-- Jira, Confluence
-- Inglês: CEFR B2
+🛠️ Technologies & Tools
+💻 Languages & Development
 
----
+Python (Pandas, REST APIs, Flask, Selenium)
 
-## 🏗️ Projetos em Destaque
+Java
 
-### 🔹 **FuSa Audit Tool (Ford – Interno)**
-Automação completa do processo de auditoria de Functional Safety, com integração a APIs, análise de documentos e relatórios automáticos.
+JavaScript, HTML, CSS
 
-### 🔹 **Análise de Sentimentos para Redes Sociais (Kaggle)**
-Projeto acadêmico com pré-processamento, treinamento de modelos e avaliação em dataset real.
+Git and GitHub
 
-### 🔹 **Business Manager System (SENAI – Projeto Final)**
-Sistema completo para gestão de serviços de trançadeira:
-PHP • HTML/CSS • MySQL • CRUD • autenticação • dashboards.
+📊 Data & Automation
 
-*(Você pode criar repositórios públicos contendo versões simplificadas ou reimplementações desses projetos.)*
+Data analysis (Pandas, Excel)
 
----
+Automation scripts
 
-## 🎯 Objetivos atuais
+Basic Machine Learning (numpy, matplotlib, scikit-learn)
 
-- Publicar projetos de automação e data analysis.
-- Aprofundar Machine Learning e LLMs.
-- Criar conteúdo técnico relacionado a:
-  - Python
-  - Engenharia de Dados
-  - Automação para empresas
-  - Engenharia/Safety no setor automotivo
+🧠 NLP
 
----
+Text preprocessing (spaCy, NLTK)
 
-## 📫 Como me encontrar
+Tokenization, lemmatization, stopword removal
 
-📩 **Email:** cassialucy123@gmail.com  
-🔗 **GitHub:** https://github.com/LuckDevCode  
-📍 Lauro de Freitas — BA, Brasil
+🧩 Other
 
----
+ISO 26262 — Audits and Confirmation Reviews
 
-⭐ *Se gostar de algum projeto, considere deixar uma star!*
+Jira, Confluence
+
+English: CEFR B2
+
+🏗️ Featured Projects
+🔹 FuSa Audit Tool (Ford – Internal)
+
+End-to-end automation of the Functional Safety audit workflow, including API integrations, document analysis, and automated reporting.
+
+🔹 Sentiment Analysis for Social Media (Kaggle)
+
+Academic project involving text preprocessing, model training, and evaluation using a real-world dataset.
+
+🔹 Business Manager System (SENAI – Final Project)
+
+Complete service management system for a hair braider:
+PHP • HTML/CSS • MySQL • CRUD • authentication • dashboards
+
+🔹 Travel Agency Platform (Collaborative Software Development Project)
+
+Full web platform for a tourism agency, including trip catalog, booking system, and admin dashboard:
+TypeScript • JavaScript • React • Node.js • Express • REST APIs • Scrum
+
+🎯 Current Goals
+
+Publish automation and data analysis projects
+
+Deepen knowledge in Machine Learning and LLMs
+
+Create technical content related to:
+
+Python
+
+Data Engineering
+
+Automation for companies
+
+Engineering/Safety in the automotive sector
+
+📫 How to Reach Me
+
+📩 Email: cassialucy123@gmail.com
+
+🔗 GitHub: https://github.com/LuckDevCode
+
+📍 Lauro de Freitas — BA, Brazil
+
+⭐ If you like any project, feel free to leave a star!

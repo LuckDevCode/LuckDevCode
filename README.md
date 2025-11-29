@@ -30,7 +30,7 @@ I am currently pursuing a **B.Sc. in Computer Engineering at UFBA**, with a tech
 ### 📊 Data & Automation
 - Data analysis (*Pandas, Excel*)  
 - Automation scripts  
-- Basic Machine Learning (*numpy, spaCy, NLTK, matplotlib, scikit-learn*)
+- Basic Machine Learning (*numpy, matplotlib, scikit-learn*)
 
 ### 🧠 NLP
 - Text preprocessing (*spaCy, NLTK*)  
